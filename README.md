@@ -1,6 +1,7 @@
 Task_1 - Algonive_Customer segmentation using python
+
 https://colab.research.google.com/drive/1uB-28MnhdoOIk8yGe6BlPNwpKqk_KilS?usp=sharing\
-%%writefile README.md
+
 # Customer Segmentation Analysis
 
 This notebook performs customer segmentation using the RFM (Recency, Frequency, Monetary) model and K-Means clustering.
@@ -49,7 +50,9 @@ This summary shows that Cluster 3 represents the most valuable customers (high f
 <img width="1134" height="738" alt="image" src="https://github.com/user-attachments/assets/27c1e8e3-368e-43c3-803b-dcb6da2eff29" />
 <img width="697" height="564" alt="image" src="https://github.com/user-attachments/assets/25949fc4-8eea-441f-8657-4efeec51ff8d" />
 <img width="699" height="567" alt="image" src="https://github.com/user-attachments/assets/f556539f-5c4e-4aad-b48b-e811c5bcf4c6" />
+
 ***Final principal component analysis visualization***
+
 <img width="749" height="793" alt="image" src="https://github.com/user-attachments/assets/eb724809-1d35-4a6a-ab22-5cbf07faa805" />
 
 
